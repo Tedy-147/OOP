@@ -1,0 +1,6 @@
+D:\Uni\Уни1.2\ООП Лекция\Homework\Homework\bin\Debug\Homework.exe.config
+D:\Uni\Уни1.2\ООП Лекция\Homework\Homework\bin\Debug\Homework.exe
+D:\Uni\Уни1.2\ООП Лекция\Homework\Homework\bin\Debug\Homework.pdb
+D:\Uni\Уни1.2\ООП Лекция\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+D:\Uni\Уни1.2\ООП Лекция\Homework\Homework\obj\Debug\Homework.exe
+D:\Uni\Уни1.2\ООП Лекция\Homework\Homework\obj\Debug\Homework.pdb
