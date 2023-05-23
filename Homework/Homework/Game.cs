@@ -58,6 +58,23 @@ namespace Homework
             {
                 Winner = "TEAM 1 IS THE WINNER!";
                 GameResult = $"{t1counter} - {t2counter}";
+                Console.WriteLine("Team 1 players:");
+                foreach (var pl in team1)
+                {
+                    Console.WriteLine(pl.name);
+                }
+                Console.WriteLine();
+                Console.WriteLine("Team 2 player: ");
+                foreach (var pl in team2)
+                {
+                    Console.WriteLine(pl.name);
+                }
+                Console.WriteLine();
+                Console.WriteLine("Goals:");
+                foreach (var goal in Goals)
+                {
+                    Console.WriteLine(goal);
+                }
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine();
@@ -67,11 +84,29 @@ namespace Homework
                 Console.WriteLine();
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine("----------------------------------------");
+
             }
             else if (t2counter > t1counter)
             {
                 Winner = "TEAM 2 IS THE WINNER!";
                 GameResult = $"{t1counter} - {t2counter}";
+                Console.WriteLine("Team 1 players:");
+                foreach (var pl in team1)
+                {
+                    Console.WriteLine(pl.name);
+                }
+                Console.WriteLine();
+                Console.WriteLine("Team 2 player: ");
+                foreach (var pl in team2)
+                {
+                    Console.WriteLine(pl.name);
+                }
+                Console.WriteLine();
+                Console.WriteLine("Goals:");
+                foreach (var goal in Goals)
+                {
+                    Console.WriteLine(goal);
+                }
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine();
@@ -86,6 +121,23 @@ namespace Homework
             {
                 Winner = "There is no winner! The teams are EVEN!";
                 GameResult = $"{t1counter} - {t2counter}";
+                Console.WriteLine("Team 1 players:");
+                foreach (var pl in team1)
+                {
+                    Console.WriteLine(pl.name);
+                }
+                Console.WriteLine();
+                Console.WriteLine("Team 2 player: ");
+                foreach (var pl in team2)
+                {
+                    Console.WriteLine(pl.name);
+                }
+                Console.WriteLine();
+                Console.WriteLine("Goals:");
+                foreach (var goal in Goals)
+                {
+                    Console.WriteLine(goal);
+                }
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine();
